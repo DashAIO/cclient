@@ -1,4 +1,4 @@
-module github.com/Carcraftz/cclient
+module github.com/DashAIO/cclient
 
 go 1.16
 
